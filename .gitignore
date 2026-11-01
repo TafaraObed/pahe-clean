@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+playwright-report/
+.test-profiles/
+research/
+pahe-home.html
+.publish/
